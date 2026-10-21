@@ -1,3 +1,8 @@
+# 473 Project
+Scripts used to obtain results can be found in project_scripts
+This project makes use of the Time Series Library repository.
+All contents of the library are credited to their respective owners.
+
 # Time Series Library (TSLib)
 TSLib is an open-source library for deep learning researchers, especially for deep time series analysis.
 
