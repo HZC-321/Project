@@ -1,6 +1,8 @@
 # 473 Project
-Scripts used to obtain results can be found in project_scripts
+Scripts used to obtain results can be found in project_scripts.
+
 This project makes use of the Time Series Library repository.
+
 All contents of the library are credited to their respective owners.
 
 # Time Series Library (TSLib)
